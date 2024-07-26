@@ -1,0 +1,14 @@
+{
+  "key.boosted-brightness.next": "Selecciona el brillo",
+  "key.boosted-brightness.raise": "Aumentar brillo",
+  "key.boosted-brightness.lower": "Disminuir brillo",
+  "key.boosted-brightness.select1": "Selecciona el brillo n°1",
+  "key.boosted-brightness.select2": "Selecciona el brillo n°2",
+  "key.boosted-brightness.select3": "Selecciona el brillo n°3",
+  "key.boosted-brightness.select4": "Selecciona el brillo n°4",
+  "key.boosted-brightness.select5": "Selecciona el brillo n°5",
+  "category.boosted-brightness.title": "Boosted Brightness",
+  "overlay.boosted-brightness.change": "Brillo %s: %s%%",
+  "options.boosted-brightness.title": "Opciones de Boosted Brightness",
+  "modmenu.descriptionTranslation.boostedbrightness": "Te deja cambiar el brillo más allá del límite vanilla."
+}
